@@ -1,0 +1,9 @@
+title: Obtained Item! Gem SFX (From Spyro the Dragon)
+originalAuthor: Flowleyd
+description: Changes the Item Pop Up SFX to the Gem Sound from Spyro
+
+assets:
+- name: se\se000.win32.scd
+  method: copy
+  source:
+  - name: Gem.scd
